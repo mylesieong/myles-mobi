@@ -2,11 +2,15 @@
 <html lang="zh-Hant">
 <head> 
     <meta charset="utf-8"/>
+    <meta name="description" content="Myles' Site">
+    <meta name="author" content="Myles Ieong">
+    <meta name="robots" content="index, follow">
+    <title>myles the fundadores</title>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <style>
-        main { margin-right: 10em; margin-left: 10em;}
-    </style>
+    <link rel="stylesheet" href="css/override.css">
 </head>
 <body>
-<main>
-
+<section>
+<div class="container">
+<div class="row">
+<div class="padding-lr-3 font-yahei max-width-960px font-s">
