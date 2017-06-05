@@ -218,15 +218,7 @@ else {
 			$text = <>;
 		}
 
-        # Myles patch on 2017-05-14
-        # print Markdown($text);
-        $text = Markdown($text);
-        print '<!DOCTYPE html><html lang="zh-Hant"><head>' 
-            . '<meta charset="utf-8"/><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">'
-            . '<style>main { margin-right: 10em; margin-left: 10em;}</style>'
-            . '</head><body><main>'
-            . $text
-            . '</main></body></html>';
+        print Markdown($text);
     }
 }
 
