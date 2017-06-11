@@ -14,7 +14,8 @@
 .font-yahei {font-family: 'Microsoft JhengHei', 'SimHei';}
 .font-l {font-size: 3em;}
 .font-m {font-size: 2em;}
-.font-s {font-size: 1em;}
+.font-s {font-size: 1.5em;}
+.font-xs {font-size: 1em;}
 
 .max-width-960px {max-width: 960px;}
 
