@@ -1057,11 +1057,11 @@ sub _DoBlockQuotes {
 			    .+\n					# rest of the first line
 			  (.+\n)*					# subsequent consecutive lines
 			  \n*						# blanks
-			)+
+			)
 		  )
 		}{
 			my $bq = $1;
-			$bq =~ s/^[ \t]*>[ \t]?//gm;	# trim one level of quoting
+           	$bq =~ s/^[ \t]*>[ \t]?//gm;	# trim one level of quoting
 			$bq =~ s/^[ \t]+$//mg;			# trim whitespace-only lines
 			$bq = _RunBlockGamut($bq);		# recurse
 
