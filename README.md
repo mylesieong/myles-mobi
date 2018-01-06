@@ -30,7 +30,7 @@ Blogs in this site will be writen in markdown language and be converted to html5
 1. Make sure the width of a quote is slightly thinner than the content paragraph
 1. Use a font family that give a more handsome feeling
 1. Center the open/font button
-1. Revoke the change on perl program
+1. Revoke the change on perl program **done**
 1. Add JQuery to add classes to elms(replace the static subheader/subfooter)
 1. Consolidate articles to one **done**
 
