@@ -1057,7 +1057,7 @@ sub _DoBlockQuotes {
 			    .+\n					# rest of the first line
 			  (.+\n)*					# subsequent consecutive lines
 			  \n*						# blanks
-			)
+			)+
 		  )
 		}{
 			my $bq = $1;
