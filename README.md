@@ -32,6 +32,7 @@ Blogs in this site will be writen in markdown language and be converted to html5
 1. Center the open/font button
 1. Revoke the change on perl program
 1. Add JQuery to add classes to elms(replace the static subheader/subfooter)
+1. Consolidate articles to one **done**
 
 ## Bonus
 1. Use different font according to each books' style (use sentiment analyse)
