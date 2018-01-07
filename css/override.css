@@ -13,11 +13,47 @@
 
 .margin-lr-auto {margin-left: auto; margin-right: auto}
 
-.font-yahei {font-family: 'Microsoft JhengHei', 'SimHei';}
-.font-l {font-size: 3em;}
-.font-m {font-size: 2em;}
-.font-s {font-size: 1.5em;}
-.font-xs {font-size: 1em;}
-
 .max-width-960px {max-width: 960px;}
 
+.color-ct-lightgreen {color: #AFEAAA;}
+.color-ct-green {color: #87E293;}
+.color-ct-biggreen {color: #a7f442;}
+.color-ct-deepgreen {color: #41924B;}
+.color-ct-lightblue {color: #6BCAE2;}
+.color-ct-blue{color: #51A5BA;}
+.color-ct-lightorange {color: #FE8402;}
+.color-ct-grey {color: grey;}
+.color-ct-orangered {color: #F26739;}
+.color-ct-cadetblue {color: #91BEAE;}
+.color-ct-silver {color: silver;}
+.color-ct-darkgrey {color: darkgrey;}
+.color-ct-limegreen {color: #9BCB3C;}
+.color-ct-white {color: #FFFFFF;}
+.color-ct-darkslategrey {color: #104A57;}
+.color-ct-bluepurple {color: #A86EAE;}
+
+.fix-width-100 {width: 100%;}
+.fix-width-80 {width: 80%;}
+.fix-width-60 {width: 60%;}
+.fix-width-40 {width: 40%;}
+.fix-width-20 {width: 20%;}
+
+.font-huge{font-size:5em;}
+.font-grande{font-size:3em;}
+.font-medium{font-size:2em;}
+.font-small{font-size:1.5em;}
+.font-xs{font-size:1.25em;}
+.font-xxs{font-size:1em;}
+.font-tiny{font-size:0.75em;}
+
+.font-bold{ font-weight: bold;}
+.font-italic{ font-style: italic;}
+
+.font-lobster{font-family: 'Lobster', cursive;}
+.font-yahei{ font-family: 'Microsoft JhengHei', 'SimHei', 'MingLiU';}
+.font-kaiti { font-family: 'KaiTi';}
+.font-pingfang {font-family:pingfang sc,microsoft yahei,helvatica; }
+
+.align-center {text-align: center;}
+.align-left {text-align: left;}
+.align-right {text-align: right;}
